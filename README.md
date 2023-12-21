@@ -9,6 +9,5 @@
 
 그래서 비밀번호 등의 민감한 인증 정보는 쿠키에 저장하지 않고 사용자의 식별자인 Session Id를 생성해 서버에 저장한다. 서버에는 인증 정보와 더불어 이 세션 ID에 해당하는 로그인 상태, 마지막 로그인 시간, 닉네임, 만료기한 등의 정보를 저장한다. 보안상 서버는 사용자의 개인 컴퓨터보다는 훨씬 안전하다.
 
-  
-![image](https://github.com/JaesungYoun/SpringBoot-SessionLogin/assets/73388615/41e0ae5a-890e-425e-9350-561644e3a5e7)
 
+![image](https://github.com/JaesungYoun/SpringBoot-SessionLogin/assets/73388615/cd8fe75d-37d0-4505-a26d-9fe5f2432972)
